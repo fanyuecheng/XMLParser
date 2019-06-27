@@ -1,7 +1,7 @@
 # XMLParser
 简单的XML数据解析
 
-使用NSXMLParser  
+使用NSXMLParser将XML数据解析成字典
 ```  
 NSString *xmlString = @"<?xml version=\"1.0\" encoding=\"utf-8\"?>\
     <div class='test_class' href='www.xxxxx.com'>\
